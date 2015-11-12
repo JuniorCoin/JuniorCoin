@@ -1,0 +1,9 @@
+Building JuniorCoin
+
+See doc/readme-qt.rst for instructions on building JuniorCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of JuniorCoin.
+
+See doc/build-*.txt for instructions on building JuniorCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of JuniorCoin.
